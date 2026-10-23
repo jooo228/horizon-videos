@@ -1,6 +1,6 @@
 # horizon-videos
 
-Dépôt de passage pour les vidéos TikTok du compte @horizononit (Horizon).
+Dépôt de passage pour les vidéos TikTok du compte @horizononiit (Horizon).
 
 Metricool a besoin d'une adresse web publique pour récupérer une vidéo. Chaque vidéo passe donc quelques minutes sur la branche `transit`, le temps que Metricool la copie, puis elle est retirée. La branche `main` ne garde aucune vidéo.
 
