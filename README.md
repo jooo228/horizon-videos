@@ -1,10 +1,12 @@
 # horizon-videos
 
-Vidéos TikTok du compte @horizononit (Horizon), hébergées ici pour que Metricool puisse les récupérer par une adresse directe.
+Dépôt de passage pour les vidéos TikTok du compte @horizononit (Horizon).
+
+Metricool a besoin d'une adresse web publique pour récupérer une vidéo. Chaque vidéo passe donc quelques minutes sur la branche `transit`, le temps que Metricool la copie, puis elle est retirée. La branche `main` ne garde aucune vidéo.
 
 Les chiffres montrés dans les vidéos sont des exemples fictifs. Horizon ne donne aucun conseil financier.
 
 ## Crédits
 
-- Voix de synthèse : moteur Kokoro-82M (licence Apache 2.0), voix « ff_siwis » issue du corpus SIWIS (CC BY 4.0). Les vidéos v2 utilisaient Piper avec la même voix SIWIS.
+- Voix de synthèse : moteur Kokoro-82M (licence Apache 2.0), voix « ff_siwis » issue du corpus SIWIS (CC BY 4.0).
 - Polices : Inter (SIL Open Font License).
